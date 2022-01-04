@@ -1,0 +1,60 @@
+{
+    "list": [{
+        "name": "Buy Now",
+        "item": [{
+                "title": "Buy Now",
+                "datalist": [
+                    { "tit": "Home", "url": "./JD-index.html" },
+                    { "tit": "Listing", "url": "./list.html" },
+                    { "tit": "Details", "url": "item.html" },
+                    { "tit": "Shopping Cart", "url": "cart.html" },
+                    { "tit": "Success", "url": "success-cart.html" },
+                    { "tit": "Checkout", "url": "getOrderInfo.html" },
+                    { "tit": "Payment", "url": "pay.html" },
+                    { "tit": "Payment Confirmation", "url": "payconfirm.html" },
+                    { "tit": "Payment Success", "url": "paysuccess.html" },
+                    { "tit": "Payment Failure", "url": "payfail.html" }
+                ]
+
+            },
+            {
+                "title": "Dashboard",
+                "datalist": [
+                    { "tit": "Dashboard", "url": "home.html" },
+                    { "tit": "Orders", "url": "myOrder.html" },
+                    { "tit": "Address", "url": "addressList.html" }
+                ]
+            },
+            {
+                "title": "Login",
+                "datalist": [
+                    { "tit": "Login", "url": "login.html" },
+                    { "tit": "Orders", "url": "myOrder.html" },
+                    { "tit": "Register", "url": "register.html" }
+                ]
+            }
+        ]
+    }, {
+        "name": "Flash Sale",
+        "item": [{
+            "title": "Flash Sale",
+            "datalist": [
+                { "tit": "Flash Sale", "url": "flashsale-index.html" },
+                { "tit": "Details", "url": "flashsale-item.html" }
+            ]
+        }, {
+            "title": "Orders",
+            "datalist": [
+                { "tit": "Orders", "url": "flashsaleOrder.html" },
+                { "tit": "Pending Payment", "url": "flashsaleorder-pay.html" },
+                { "tit": "Processing", "url": "flashsaleorder-send.html" },
+                { "tit": "Shipped", "url": "flashsaleorder-receive.html" },
+                { "tit": "Review", "url": "flashsaleorder-evaluate.html" },
+                { "tit": "My Collections", "url": "flashsaleperson-collect.html" },
+                { "tit": "My Reviews", "url": "myreview.html" },
+                { "tit": "Personal Information", "url": "flashsalesetting-info.html" },
+                { "tit": "Address", "url": "flashsalesetting-address.html" }
+            ]
+        }]
+    }]
+}

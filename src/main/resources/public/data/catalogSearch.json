@@ -1,0 +1,83 @@
+{
+    "brand": [
+        { "id": "1101", "name": "Surface", "img": "https://images.unsplash.com/photo-1587614382231-d1590f0039e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzh8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60" },
+        { "id": "1102", "name": "Dell", "img": "https://images.unsplash.com/photo-1593642532744-d377ab507dc8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTMwfHxsYXB0b3B8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60" },
+        { "id": "1103", "name": "HP", "img": "https://images.unsplash.com/photo-1600966878954-39bd28539748?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODV8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60" },
+        { "id": "1104", "name": "Mac", "img": "https://images.unsplash.com/photo-1468436139062-f60a71c5c892?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTN8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60" }
+    ],
+    "category": [{
+            "name": "Computers",
+            "items": [
+                { "id": "601", "name": "Laptop" },
+                { "id": "602", "name": "PC Gaming" },
+                { "id": "603", "name": "Tablet" },
+                { "id": "604", "name": "Server" },
+                { "id": "605", "name": "Work Station" },
+                { "id": "606", "name": "Desktop" }
+            ]
+        },
+        {
+            "name": "Screen Size",
+            "items": [
+                { "id": "701", "name": "11.6 inch" },
+                { "id": "702", "name": "12.5 inch" },
+                { "id": "703", "name": "13.3 inch" },
+                { "id": "704", "name": "14.0 inch" },
+                { "id": "705", "name": "15.6 inch" },
+                { "id": "706", "name": "17.3 inch" }
+            ]
+        },
+        {
+            "name": "Processor",
+            "items": [
+                { "id": "801", "name": "Intel i3" },
+                { "id": "802", "name": "Intel i5" },
+                { "id": "803", "name": "Intel i7" },
+                { "id": "804", "name": "AMD" }
+            ]
+        }
+    ],
+    "advop": [{
+            "name": "RAM",
+            "items": [
+                { "id": "2201", "name": "4G" },
+                { "id": "2202", "name": "8G" },
+                { "id": "2203", "name": "12G" },
+                { "id": "2204", "name": "16G" },
+                { "id": "2205", "name": "32G" }
+            ]
+        },
+        {
+            "name": "Storage",
+            "items": [
+                { "id": "2301", "name": "120 GB" },
+                { "id": "2302", "name": "250 GB" },
+                { "id": "2303", "name": "500 GB" },
+                { "id": "2304", "name": "1 TB" },
+                { "id": "2305", "name": "2 TB" },
+                { "id": "2306", "name": "Other" }
+            ]
+        },
+        {
+            "name": "Resolution",
+            "items": [
+                { "id": "2401", "name": "2K/3k/4K" },
+                { "id": "2402", "name": "1366x768" },
+                { "id": "2403", "name": "1600x900" },
+                { "id": "2404", "name": "1920x1080" },
+                { "id": "2405", "name": "Other" }
+            ]
+        },
+        {
+            "name": "Operating System",
+            "items": [
+                { "id": "2501", "name": "Windows 10" },
+                { "id": "2502", "name": "Windows 7" },
+                { "id": "2503", "name": "Windows 8" },
+                { "id": "2504", "name": "DOS/Linux" },
+                { "id": "2505", "name": "MAC" },
+                { "id": "2506", "name": "Other" }
+            ]
+        }
+    ]
+}
