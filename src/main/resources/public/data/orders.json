@@ -1,0 +1,26 @@
+{
+    "totalQuantity": 2,
+    "totalPrices": 1999,
+    "orders": [{
+        "shop": "Apple",
+        "orderItems": [{
+                "pid": "10803521657",
+                "image": "https://images.unsplash.com/photo-1468436139062-f60a71c5c892?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTN8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+                "title": "MacBook Pro 16 inch",
+                "color": "Silver",
+                "size": "128G",
+                "unitPrice": 2499,
+                "quantity": 1
+            },
+            {
+                "pid": "10803523232",
+                "image": "https://images.unsplash.com/photo-1468436139062-f60a71c5c892?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTN8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+                "title": "MacBook Pro 16 inch",
+                "color": "Space Gray",
+                "size": "128G",
+                "unitPrice": 2499,
+                "quantity": 1
+            }
+        ]
+    }]
+}
